@@ -1,0 +1,26 @@
+#portrait{
+    height: 400px;
+    width: 400px;
+    border-radius: 400px;
+
+
+}
+img{
+    height: 400px;
+    width: auto;
+}
+
+h3{
+    color: #454545;
+}
+
+body{
+    text-align: center;
+    background-color: #F6E3DE;
+    font-family: 'Mukta', sans-serif;
+}
+#about_text{
+    margin: 30px;
+    padding: 50px;
+    line-height: 2.0em;
+}
